@@ -12,7 +12,7 @@ A lower-than-normal platelet count is called thrombocytopenia. Low platelet coun
 - Platelets are being destroyed in the spleen or liver
 
 # My story!!
-I am a software engineer by profession. In general, I am curious and inquisitive about data; especially when the data means something to me, at a personal level. That is exactly what happened to me, when a few months ago, my doctor found out through lab tests that my platelet count had dropped in the last year, and she wanted me to see a hematologist. She wanted to find out if I had thrombocytopenia (a medical condition causing low platelet count)?
+I am a software engineer by profession. In general, I am curious and inquisitive about data; especially when the data means something to me, at a personal level. That is exactly what happened to me a few months ago, when my doctor found out through lab tests that my platelet count had dropped in the last year; and she wanted me to see a hematologist. She wanted to find out if I had thrombocytopenia (a medical condition causing low platelet count)?
 
 I wanted to know how worrisome are my results? And the statistician inside me wanted to answer that same question a bit more quantitatively. I was infact, too excited to apply some statistical techniques and tools that I had recently learnt in a statistics course.
 
@@ -22,6 +22,11 @@ When you start analyzing health data, you are hit by the reality that it may be 
 I had 16 data points of platelet count collected over past 3-4 years, which is obviously too small. You need the i.i.d(identical independent) assumption and atleast 30 data points to apply CLT.
 
 # What questions did I want to answer?
+How likely is it that my platelet count indicates thrombocytopenia? Naturally, I decided to perform hypothesis test at alpha = 10%
+
+Hypothesis test: In this case it is a one sample, one sided test, as below: 
+- Null hypothesis: I have no medical condition
+- Alternate hypothesis: I have thrombocytopenia
 
 # My approach
 
