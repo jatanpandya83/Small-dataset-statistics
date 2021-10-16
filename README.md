@@ -1,8 +1,8 @@
 # Small-dataset-statistics
 Statistical analysis of small dataset
-# About Platelet Count
+# About Platelet Count (Source: Quest Diagnostics)
 Platelets are the smallest type of cell found in the blood. Platelets help stop bleeding after an injury by gathering around the injury site, plugging the hole in the bleeding vessel and helping the blood to clot more quickly. Platelet counts may be done if you are prone to bruising or if you are about to have surgery. The platelet count may change with bleeding disorders, heart disease, diabetes and inflammatory disorders.
-# Low Platelet Count
+# Low Platelet Count (Source: https://www.mountsinai.org/health-library/tests/platelet-count)
 A low platelet count is below 150,000 (150 × 109/L). If your platelet count is below 50,000 (50 × 109/L), your risk for bleeding is higher. Even every day activities can cause bleeding.
 
 A lower-than-normal platelet count is called thrombocytopenia. Low platelet count can be divided into 3 main causes:
