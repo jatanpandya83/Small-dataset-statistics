@@ -2,8 +2,8 @@
 Statistical analysis of small dataset
 # About Platelet Count (Source: Quest Diagnostics)
 Platelets are the smallest type of cell found in the blood. Platelets help stop bleeding after an injury by gathering around the injury site, plugging the hole in the bleeding vessel and helping the blood to clot more quickly. Platelet counts may be done if you are prone to bruising or if you are about to have surgery. The platelet count may change with bleeding disorders, heart disease, diabetes and inflammatory disorders.
-# Low Platelet Count (Source: https://www.mountsinai.org/health-library/tests/platelet-count)
-A low platelet count is below 150,000 (150 × 109/L). If your platelet count is below 50,000 (50 × 109/L), your risk for bleeding is higher. Even every day activities can cause bleeding.
+
+The reference range for healthy platelet count is 140-400 thousand/uL.
 
 A lower-than-normal platelet count is called thrombocytopenia. Low platelet count can be divided into 3 main causes:
 
@@ -22,14 +22,28 @@ When you start analyzing health data, you are hit by the reality that it may be 
 I had 16 data points of platelet count collected over past 3-4 years, which is obviously too small. You need the i.i.d(identical independent) assumption and atleast 30 data points to apply CLT.
 
 # What questions did I want to answer?
-How likely is it that my platelet count indicates thrombocytopenia? Naturally, I decided to perform hypothesis test at alpha = 10%
+How likely is it that my platelet count indicates thrombocytopenia? 
+
+Naturally, I decided to perform hypothesis test at level alpha = 10%. I applied the test in two situations:
+
+- Over all the data-points obtained in the past 3-4 years: 16 data points
+- Last one year: 5 data points
 
 Hypothesis test: In this case it is a one sample, one sided test, as below: 
 - Null hypothesis: I have no medical condition
 - Alternate hypothesis: I have thrombocytopenia
 
+
 # My approach
 
+I could use the student's T test, if my data was approximately normal. Below is the QQ plot:
+
+
+Data does suggest that its distibution is approximately normal.
+
+Now that the data is approx. normal, and further on, making i.i.d assumption, I applied the Student's T test.
+
+# Calculations
 
 # Concluding remarks
 
