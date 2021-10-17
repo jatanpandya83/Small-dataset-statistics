@@ -39,13 +39,19 @@ Hypothesis test: In this case it is a one sample, one sided test, as below:
 I could use the student's T test, if my data was approximately normal. Below is the QQ plot:
 
 
-Data does suggest that its distibution is approximately normal.
+The data suggests that its distibution is approximately normal.
 
 Now that the data is approx. normal, and further on, making i.i.d assumption, I applied the Student's T test.
 
 # Calculations
 
+Peforming the test over all the data points obtained in past 3-4 years:
+
+Performing the test over the data points obtained in past 1 year:
+
 # Concluding remarks
+Be curious. Be inquistive. Keep learning!
+Kudos to the Statistics and data science certification from MiTx and EdX (https://www.edx.org/micromasters/mitx-statistics-and-data-science), where I learnt many of these concepts and techniques
 
 
 
