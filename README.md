@@ -51,7 +51,8 @@ Performing the test over the data points obtained in past 1 year:
 
 # Concluding remarks
 Be curious. Be inquistive. Keep learning!
-Kudos to the Statistics and data science certification from MiTx and EdX (https://www.edx.org/micromasters/mitx-statistics-and-data-science), where I learnt many of these concepts and techniques
+
+Kudos to the Statistics and data science certification from MiTx on edX (https://www.edx.org/micromasters/mitx-statistics-and-data-science), where I learnt many of these concepts and techniques.
 
 
 
