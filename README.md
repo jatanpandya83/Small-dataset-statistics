@@ -46,13 +46,11 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 Calculate the test statistic (Tn)
 
 ![equation](https://bit.ly/3IvRqCN)
-
 Where:
 -Xn bar is the empirical mean
 -Mu is the expectation under null hypothesis. This is obtained by averaging the range 140-400, .i.e (140+400)/2 = 270
 -Sn hat is the sample variance
 -Tn is the test statistic
-
 ![equation](https://bit.ly/344Rx9D)
 
 Where:
