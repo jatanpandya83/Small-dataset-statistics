@@ -45,8 +45,8 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 # Calculations
 Calculate the test statistic (Tn)
 
-![equation](http://latex.codecogs.com/svg.image?Tn%20=%20(%20%5Coverline%7BXn%7D%20-%20%5Cmu0%20)/%5Csqrt%7B%5Cwidehat%7BSn%7D%7D)
+![equation](https://latex.codecogs.com/svg.image?Tn%20=%20(%20%5Coverline%7BXn%7D%20-%20%5Cmu0%20)/%5Csqrt%7B%5Cwidehat%7BSn%7D%7D)
 
 - Where Xn bar is the empirical mean
-- Mu is the expectation under null hypothesis. This is obtained by finding the middle value in the range 140-400, .i.e 270
+- Mu is the expectation under null hypothesis. This is obtained by averaging the range 140-400, .i.e (140+400)/2 = 270
 - Sigma hat is the estimated std. deviation
