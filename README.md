@@ -1,6 +1,6 @@
 # Small-dataset-statistics
 Statistical analysis of small dataset
-# About Platelet Count (Source: Quest Diagnostics)
+# About Platelet Count
 Platelets are the smallest type of cell found in the blood. Platelets help stop bleeding after an injury by gathering around the injury site, plugging the hole in the bleeding vessel and helping the blood to clot more quickly. Platelet counts may be done if you are prone to bruising or if you are about to have surgery. The platelet count may change with bleeding disorders, heart disease, diabetes and inflammatory disorders.
 
 The reference range for healthy platelet count is 140-400 thousand/uL.
@@ -29,10 +29,12 @@ Hypothesis test: In this case it is a one sample, one sided test, as below:
 - Null hypothesis: I do not have thrombocytopenia
 - Alternate hypothesis: Reject the null hypothesis that I do not have thrombocytopenia
 
+# About the data
+The data published in the notebook is generated data, for privacy reasons. However the general approach to the problem remains the same.
 
 # My approach
 
-I could use the student's T test, if my data was approximately normal. Below is the QQ plot:
+I could use the student's T test, if my data was approximately normal. So I plotted the QQ plot(code in the notebook):
 
 ![alt text](https://github.com/jatanpandya83/Small-dataset-statistics/blob/main/QQ-plot.png?raw=true)
 
