@@ -50,8 +50,8 @@ Calculate the test statistic (Tn)
 - Mu is the expectation under null hypothesis. This is obtained by averaging the range 140-400, .i.e (140+400)/2 = 270
 - Sn hat is the sample variance
 - Tn is the test statistic
-![equation](https://bit.ly/344Rx9D)
 
+![equation](https://bit.ly/344Rx9D)
 - where psi_alpha is the statistic where psi belongs to {0,1}
 - Tn is the test statistic
 - Q_alpha is the quantile at level alpha 
