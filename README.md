@@ -44,6 +44,7 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 
 # Calculations
 Calculate the test statistic (Tn)
+
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%5Csqrt%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 - Where Xn bar is the empirical mean
 - Mu is the expectation under null hypothesis. This is obtained by averaging the range 140-400, .i.e (140+400)/2 = 270
