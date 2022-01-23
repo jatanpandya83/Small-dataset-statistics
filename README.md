@@ -45,8 +45,7 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 # Calculations
 Calculate the test statistic (Tn)
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=Tn%20%3D%20%20%28%5Coverline%7BXn%7D%20-%20%20%5Cmu%20%29%20%2F%20%5Csqrt%7BSn%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
+![equation](https://bit.ly/3IvRqCN)
 
 -<img src="http://www.sciweavers.org/tex2img.php?eq=Tn%20%3D%20%20%28%5Coverline%7BXn%7D%20-%20%20%5Cmu%20%29%20%2F%20%5Csqrt%7BSn%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Tn =  (\overline{Xn} -  \mu ) / \sqrt{Sn} " width="162" height="25" />
 - Where Xn bar is the empirical mean
