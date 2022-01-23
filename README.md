@@ -44,7 +44,6 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 
 # Calculations
 Calculate the test statistic (Tn)
-
 ![equation](https://bit.ly/3IvRqCN)
 Where:
 -Xn bar is the empirical mean
@@ -52,7 +51,6 @@ Where:
 -Sn hat is the sample variance
 -Tn is the test statistic
 ![equation](https://bit.ly/344Rx9D)
-
 Where:
 -psi_alpha is the statistic where psi belongs to {0,1}
 -Tn is the test statistic
