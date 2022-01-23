@@ -24,19 +24,16 @@ I had 16 data points of platelet count collected over past 3-4 years, which is o
 # What questions did I want to answer?
 How likely is it that my platelet count indicates thrombocytopenia? 
 
-Naturally, I decided to perform hypothesis test at level alpha = 10%. I applied the test in two situations:
-
-- Over all the data-points obtained in the past 3-4 years: 16 data points
-- Last one year: 5 data points
-
+Naturally, I decided to perform hypothesis test at level alpha = 5%. I applied the test over all the data-points obtained in the past 3-4 years: 16 data points.
 Hypothesis test: In this case it is a one sample, one sided test, as below: 
-- Null hypothesis: I have no medical condition
-- Alternate hypothesis: I have thrombocytopenia
+- Null hypothesis: I do not have thrombocytopenia
+- Alternate hypothesis: Reject the null hypothesis that I do not have thrombocytopenia
 
 
 # My approach
 
 I could use the student's T test, if my data was approximately normal. Below is the QQ plot:
+
 
 
 The data suggests that its distibution is approximately normal.
