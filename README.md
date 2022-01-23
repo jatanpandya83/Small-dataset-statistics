@@ -51,6 +51,7 @@ Calculate the test statistic (Tn)
 - Sn hat is the sample variance
 - Tn is the test statistic
 
+
 ![equation](https://bit.ly/344Rx9D)
 - where psi_alpha is the statistic where psi belongs to {0,1}
 - Tn is the test statistic
