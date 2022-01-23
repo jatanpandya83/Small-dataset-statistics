@@ -34,7 +34,7 @@ Hypothesis test: In this case it is a one sample, one sided test, as below:
 
 I could use the student's T test, if my data was approximately normal. Below is the QQ plot:
 
-
+![alt text](https://github.com/jatanpandya83/Small-dataset-statistics/blob/main/QQ-plot.png?raw=true)
 
 The data suggests that its distibution is approximately normal.
 
