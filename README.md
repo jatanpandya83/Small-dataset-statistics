@@ -49,4 +49,5 @@ Calculate the test statistic (Tn)
 
 - Where Xn bar is the empirical mean
 - Mu is the expectation under null hypothesis. This is obtained by averaging the range 140-400, .i.e (140+400)/2 = 270
-- Sigma hat is the estimated std. deviation
+- Sigma hat is the estimated sample variance
+- Tn is the test statistic
