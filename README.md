@@ -45,7 +45,6 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 # Calculations
 Calculate the test statistic (Tn)
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=Tn%20%3D%20%28%20%5Coverline%7BXn%7D%20-%20%5Cmu0%20%29%2F%5Csqrt%7B%5Cwidehat%7BSn%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-- Where Xn bar is the empirical mean
+![equation](http://www.sciweavers.org/tex2img.php?eq=Tn%20%3D%20%28%20%5Coverline%7BXn%7D%20-%20%5Cmu0%20%29%2F%5Csqrt%7B%5Cwidehat%7BSn%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)- Where Xn bar is the empirical mean
 - Mu is the expectation under null hypothesis. This is obtained by averaging the range 140-400, .i.e (140+400)/2 = 270
 - Sigma hat is the estimated std. deviation
