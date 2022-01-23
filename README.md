@@ -44,7 +44,6 @@ Now that the data is approx. normal, and further on, making i.i.d assumption, I 
 
 # Calculations
 Calculate the test statistic (Tn)
-<img src="https://latex.codecogs.com/svg.image?Tn&space;=&space;(&space;\overline{Xn}&space;-&space;\mu0&space;)/\sqrt{\widehat{Sn}}" title="Tn = ( \overline{Xn} - \mu0 )/\sqrt{\widehat{Sn}}" />
-- Where Xn bar is the empirical mean
+- <img src="https://latex.codecogs.com/svg.image?Tn&space;=&space;(&space;\overline{Xn}&space;-&space;\mu0&space;)/\sqrt{\widehat{Sn}}" title="Tn = ( \overline{Xn}  \mu0 )/\sqrt{\widehat{Sn}}" />- Where Xn bar is the empirical mean
 - Mu is the expectation under null hypothesis. This is obtained by finding the middle value in the range 140-400, .i.e 270
 - Sigma hat is the estimated std. deviation
